@@ -1,5 +1,5 @@
 """Расчет диаметра трубопровода, скорости потока или расхода.
-
+Hello!!!
 Функции:
     calc_diameter(velocity, volume)
     calc_velocity(volume, diameter)
